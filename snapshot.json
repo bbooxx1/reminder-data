@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-08-28T16:42:05.405Z",
+  "upcoming": [
+    {
+      "type": "event",
+      "title": "Bonus homework due (based on the syllabus, FAQs, and the first PPT)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Syllabus Quiz due before class (stated as 'Tuesday September 1st' in assignment section)",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "1st Peer Leader meeting must be completed",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-09-01T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 2 Quiz",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-01T16:30:00.000Z"
+    }
+  ]
+}

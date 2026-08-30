@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:32:25.922Z",
+  "generated_at": "2026-08-30T15:24:39.599Z",
   "upcoming": [
     {
       "type": "event",
@@ -42,6 +42,12 @@
       "title": "Quiz 1",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-09-03T03:30:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "How Sociologists Do Research",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-03T04:00:00.000Z"
     }
   ]
 }

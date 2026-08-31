@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T21:01:39.686Z",
+  "generated_at": "2026-08-31T21:35:29.226Z",
   "upcoming": [
     {
       "type": "event",
@@ -48,12 +48,6 @@
       "title": "Lecture Homework 1 (Ch 1, 20.4)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-09-05T03:59:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Theory of Writing #1",
-      "course": "WRT120-60-66-77: Effective Writing I",
-      "due_date": "2026-09-05T03:59:59.000Z"
     }
   ]
 }

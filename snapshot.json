@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:10:37.515Z",
+  "generated_at": "2026-08-31T21:01:39.686Z",
   "upcoming": [
     {
       "type": "event",
@@ -24,12 +24,6 @@
       "title": "Journal Entry 1 (Social Location) due; Quiz 1 due",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-09-02T04:00:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Journal #1",
-      "course": "WRT120-60-66-77: Effective Writing I",
-      "due_date": "2026-09-02T16:00:00.000Z"
     },
     {
       "type": "event",

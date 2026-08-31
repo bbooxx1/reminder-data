@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T15:28:56.831Z",
+  "generated_at": "2026-08-31T13:57:00.866Z",
   "upcoming": [
     {
       "type": "event",
@@ -38,16 +38,34 @@
       "due_date": "2026-09-02T16:00:00.000Z"
     },
     {
-      "type": "assignment",
-      "title": "Quiz 1",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-09-03T03:30:00.000Z"
-    },
-    {
       "type": "event",
       "title": "How Sociologists Do Research",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-09-03T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Journal Entry 2 (Participant Observation) due; Quiz 2 due",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Journal 2",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-05T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lecture Homework 1 (Ch 1, 20.4)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-09-05T03:59:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Theory of Writing #1",
+      "course": "WRT120-60-66-77: Effective Writing I",
+      "due_date": "2026-09-05T03:59:59.000Z"
     }
   ]
 }

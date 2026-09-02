@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:14:02.770Z",
+  "generated_at": "2026-09-02T20:20:02.673Z",
   "upcoming": [
     {
       "type": "event",
@@ -14,6 +14,12 @@
       "due_date": "2026-09-02T04:00:00.000Z"
     },
     {
+      "type": "assignment",
+      "title": "Quiz 1",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-03T03:30:00.000Z"
+    },
+    {
       "type": "event",
       "title": "How Sociologists Do Research",
       "course": "SOC100-13: Introduction to Sociology",
@@ -24,6 +30,12 @@
       "title": "Journal Entry 2 (Participant Observation) due; Quiz 2 due",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Quiz 2",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-05T03:30:00.000Z"
     },
     {
       "type": "assignment",

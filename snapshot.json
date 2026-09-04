@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-03T19:42:02.875Z",
+  "generated_at": "2026-09-04T21:21:49.747Z",
   "upcoming": [
-    {
-      "type": "event",
-      "title": "How Sociologists Do Research",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-09-03T04:00:00.000Z"
-    },
     {
       "type": "event",
       "title": "Journal Entry 2 (Participant Observation) due; Quiz 2 due",
@@ -18,6 +12,24 @@
       "title": "Get to Know Your Syllabi due (5%)",
       "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
       "due_date": "2026-09-07T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "'Who Am I' Picture due to D2L Assignments folder before class starts",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "NO CLASS – Personal Day",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 3",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-08T16:30:00.000Z"
     }
   ]
 }

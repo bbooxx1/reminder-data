@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-04T21:21:49.747Z",
+  "generated_at": "2026-09-07T23:08:32.488Z",
   "upcoming": [
-    {
-      "type": "event",
-      "title": "Journal Entry 2 (Participant Observation) due; Quiz 2 due",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-09-04T04:00:00.000Z"
-    },
     {
       "type": "event",
       "title": "Get to Know Your Syllabi due (5%)",
@@ -30,6 +24,30 @@
       "title": "Week 3",
       "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
       "due_date": "2026-09-08T16:30:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Socialization and Central Concepts in Sociology",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-10T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Quiz 3 due",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Quiz 3",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-12T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lecture Homework 2 (Ch 2, Ch 22)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-09-12T03:59:00.000Z"
     }
   ]
 }

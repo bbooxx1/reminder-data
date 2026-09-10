@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:31:07.733Z",
+  "generated_at": "2026-09-10T14:57:13.011Z",
   "upcoming": [
     {
       "type": "event",
@@ -24,6 +24,36 @@
       "title": "Lecture Homework 2 (Ch 2, Ch 22)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-09-12T03:59:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Connect to Campus assignment due (10%)",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-09-14T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Connect to Campus Group Project",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-09-14T12:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Liberal Arts FYE 2026",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-09-14T15:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Information Literacy FYE 2026",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-09-14T15:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "LABORATORY 3 homework Quiz (Organic molecules)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-09-15T03:59:59.000Z"
     }
   ]
 }

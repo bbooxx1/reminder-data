@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:42:54.280Z",
+  "generated_at": "2026-09-11T19:04:09.032Z",
   "upcoming": [
     {
       "type": "event",
@@ -18,12 +18,6 @@
       "title": "Connect to Campus Group Project",
       "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
       "due_date": "2026-09-14T12:00:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "LABORATORY 3 homework Quiz (Organic molecules)",
-      "course": "BIO110 - General Biology I",
-      "due_date": "2026-09-15T03:59:59.000Z"
     },
     {
       "type": "event",

@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:53:39.880Z",
+  "generated_at": "2026-09-11T17:58:33.437Z",
   "upcoming": [
-    {
-      "type": "event",
-      "title": "Socialization and Central Concepts in Sociology",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-09-10T04:00:00.000Z"
-    },
     {
       "type": "event",
       "title": "Quiz 3 due",
@@ -30,6 +24,36 @@
       "title": "LABORATORY 3 homework Quiz (Organic molecules)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-09-15T03:59:59.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Week 4 — Feminism and Intersectionality",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Teamwork discussion/co-working; CLP 1 'Develop a Team Contract' and peer assessment due by 11:30 p.m. in D2L",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 4 Quiz",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-15T16:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "CLP 1 - Team Contract",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-16T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "CLP 1 - Peer Assessment",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-16T03:30:00.000Z"
     }
   ]
 }

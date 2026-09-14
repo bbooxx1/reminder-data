@@ -1,12 +1,6 @@
 {
-  "generated_at": "2026-09-11T19:04:09.032Z",
+  "generated_at": "2026-09-14T00:56:15.217Z",
   "upcoming": [
-    {
-      "type": "event",
-      "title": "Quiz 3 due",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-09-11T04:00:00.000Z"
-    },
     {
       "type": "event",
       "title": "Connect to Campus assignment due (10%)",
@@ -48,6 +42,24 @@
       "title": "CLP 1 - Peer Assessment",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-09-16T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Exam 1",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-09-16T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Op-Ed: Draft 1",
+      "course": "WRT120-60-66-77: Effective Writing I",
+      "due_date": "2026-09-16T16:00:00.000Z"
+    },
+    {
+      "type": "event",
+      "title": "Film: Born Rich",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-09-17T04:00:00.000Z"
     }
   ]
 }

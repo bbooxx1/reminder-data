@@ -1,17 +1,11 @@
 {
-  "generated_at": "2026-09-14T00:56:15.217Z",
+  "generated_at": "2026-09-14T01:33:21.673Z",
   "upcoming": [
     {
       "type": "event",
       "title": "Connect to Campus assignment due (10%)",
       "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
       "due_date": "2026-09-14T04:00:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Connect to Campus Group Project",
-      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
-      "due_date": "2026-09-14T12:00:00.000Z"
     },
     {
       "type": "event",

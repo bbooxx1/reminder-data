@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:43:22.070Z",
+  "generated_at": "2026-09-14T13:55:02.689Z",
   "upcoming": [
     {
       "type": "event",
@@ -48,6 +48,12 @@
       "title": "Film: Born Rich",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-09-17T04:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lecture Homework 3 (Ch 3)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-09-19T03:59:00.000Z"
     }
   ]
 }

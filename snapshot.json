@@ -1,4 +1,11 @@
 {
-  "generated_at": "2026-09-17T20:45:03.341Z",
-  "upcoming": []
+  "generated_at": "2026-09-18T18:02:11.697Z",
+  "upcoming": [
+    {
+      "type": "assignment",
+      "title": "Week 5 Quiz",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-22T16:30:00.000Z"
+    }
+  ]
 }

@@ -1,17 +1,11 @@
 {
-  "generated_at": "2026-09-24T23:05:32.728Z",
+  "generated_at": "2026-09-24T23:12:01.009Z",
   "upcoming": [
     {
       "type": "assignment",
       "title": "Lecture Homework 4 (Ch 10)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-09-26T03:59:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "General Education FYE 2026",
-      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
-      "due_date": "2026-09-28T15:00:00.000Z"
     },
     {
       "type": "assignment",

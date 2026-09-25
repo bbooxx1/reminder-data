@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:12:01.009Z",
+  "generated_at": "2026-09-25T13:59:07.438Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -12,6 +12,12 @@
       "title": "LABORATORY 5 homework Quiz (Diffusion & Osmosis)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-09-29T03:59:59.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 6 Quiz",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-09-29T16:30:00.000Z"
     }
   ]
 }

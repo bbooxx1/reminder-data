@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:07:44.555Z",
+  "generated_at": "2026-10-02T13:56:07.948Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -30,6 +30,12 @@
       "title": "8 Key Ethical Questions FYE 2026",
       "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
       "due_date": "2026-10-05T15:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 7",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-10-06T16:30:00.000Z"
     }
   ]
 }

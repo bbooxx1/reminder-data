@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:24:32.609Z",
+  "generated_at": "2026-10-03T23:48:53.694Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -30,6 +30,18 @@
       "title": "Week 7",
       "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
       "due_date": "2026-10-06T16:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Quiz 6",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-10-08T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Journal 5",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-10-08T03:30:00.000Z"
     }
   ]
 }

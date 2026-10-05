@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:23:06.065Z",
+  "generated_at": "2026-10-05T19:55:48.873Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -30,12 +30,6 @@
       "title": "Journal 6",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-10-10T03:30:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Lecture Homework 6 (Ch 7, Ch 8)",
-      "course": "BIO110 - General Biology I",
-      "due_date": "2026-10-10T03:59:00.000Z"
     },
     {
       "type": "assignment",

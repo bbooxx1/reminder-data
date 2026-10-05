@@ -1,15 +1,9 @@
 {
-  "generated_at": "2026-10-05T19:21:45.563Z",
+  "generated_at": "2026-10-05T19:23:06.065Z",
   "upcoming": [
     {
       "type": "assignment",
       "title": "Quiz 6",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-10-08T03:30:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Journal 5",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-10-08T03:30:00.000Z"
     },

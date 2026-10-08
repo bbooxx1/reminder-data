@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:01:56.128Z",
+  "generated_at": "2026-10-08T15:25:00.150Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -18,12 +18,6 @@
       "title": "Journal 6",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-10-10T03:30:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Op-Ed: Final",
-      "course": "WRT120-60-66-77: Effective Writing I",
-      "due_date": "2026-10-10T03:59:59.000Z"
     },
     {
       "type": "assignment",

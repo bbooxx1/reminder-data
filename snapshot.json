@@ -1,17 +1,11 @@
 {
-  "generated_at": "2026-10-08T16:31:37.967Z",
+  "generated_at": "2026-10-08T16:33:50.482Z",
   "upcoming": [
     {
       "type": "assignment",
       "title": "Exam 2",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "type": "assignment",
-      "title": "Quiz 7",
-      "course": "SOC100-13: Introduction to Sociology",
-      "due_date": "2026-10-10T03:30:00.000Z"
     }
   ]
 }

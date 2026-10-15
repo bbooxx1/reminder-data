@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T14:03:42.186Z",
+  "generated_at": "2026-10-15T14:57:13.004Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -12,6 +12,24 @@
       "title": "Theory of Writing #2",
       "course": "WRT120-60-66-77: Effective Writing I",
       "due_date": "2026-10-17T03:59:59.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Growth and Fixed Mindset FYE 2026",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Science of Learning 2 FYE 2026",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-10-19T12:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "LABORATORY 6 homework Quiz (Fermentation)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-10-20T03:59:59.000Z"
     }
   ]
 }

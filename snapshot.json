@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:12:52.254Z",
+  "generated_at": "2026-10-16T14:00:27.909Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -24,6 +24,12 @@
       "title": "LABORATORY 6 homework Quiz (Fermentation)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-10-20T03:59:59.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 9",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-10-20T16:30:00.000Z"
     }
   ]
 }

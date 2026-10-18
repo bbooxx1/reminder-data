@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-10-16T22:24:38.089Z",
+  "generated_at": "2026-10-18T22:05:25.715Z",
   "upcoming": [
     {
       "type": "assignment",
       "title": "Week 9",
       "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
       "due_date": "2026-10-20T16:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "CLP 3 - Work and Its Our Future",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-10-22T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "CLP 3 - Peer Assessment",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-10-22T03:30:00.000Z"
     }
   ]
 }

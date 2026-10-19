@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T22:05:25.715Z",
+  "generated_at": "2026-10-19T15:04:31.370Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -18,6 +18,12 @@
       "title": "CLP 3 - Peer Assessment",
       "course": "SOC100-13: Introduction to Sociology",
       "due_date": "2026-10-22T03:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lecture Homework Week 8 (Ch 4, 5)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-10-24T03:59:00.000Z"
     }
   ]
 }

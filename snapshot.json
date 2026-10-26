@@ -1,4 +1,23 @@
 {
-  "generated_at": "2026-10-22T14:40:37.949Z",
-  "upcoming": []
+  "generated_at": "2026-10-26T14:59:08.839Z",
+  "upcoming": [
+    {
+      "type": "assignment",
+      "title": "Week 10",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-10-27T16:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Memoir: Draft 1",
+      "course": "WRT120-60-66-77: Effective Writing I",
+      "due_date": "2026-10-28T16:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lecture Homework Week 9 (Ch 11, 14)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-10-31T03:59:00.000Z"
+    }
+  ]
 }

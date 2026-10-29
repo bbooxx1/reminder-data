@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-28T18:14:38.971Z",
+  "generated_at": "2026-10-29T15:01:42.321Z",
   "upcoming": [
     {
       "type": "assignment",
       "title": "Lecture Homework Week 9 (Ch 11, 14)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-10-31T03:59:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "4 Year Plan Part 2: Path to Graduation",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-11-02T13:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "4 Year Plan Part 3: Reflection",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-11-02T13:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "LABORATORY 8 homework Quiz (Genotypes & Phenotypes)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-11-03T04:59:59.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lab 8 Probability EXTRA CREDIT",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-11-03T04:59:59.000Z"
     }
   ]
 }

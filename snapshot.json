@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:46:09.175Z",
+  "generated_at": "2026-10-30T20:38:58.511Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -30,6 +30,18 @@
       "title": "Lab 8 Probability EXTRA CREDIT",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-11-03T04:59:59.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Quiz 11",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-11-03T17:30:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "CLP 5 - Briefing Statement for Critical Report on a Social Problem",
+      "course": "SOC100-13: Introduction to Sociology",
+      "due_date": "2026-11-04T04:30:00.000Z"
     }
   ]
 }

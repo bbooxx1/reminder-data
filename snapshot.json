@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T22:36:27.739Z",
+  "generated_at": "2026-11-02T16:10:59.006Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -18,6 +18,12 @@
       "title": "Journal #4",
       "course": "WRT120-60-66-77: Effective Writing I",
       "due_date": "2026-11-04T17:00:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Lecture Homework Week 10 (Ch 15)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-11-07T04:59:00.000Z"
     }
   ]
 }

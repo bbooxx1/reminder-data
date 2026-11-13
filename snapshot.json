@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:09:28.087Z",
+  "generated_at": "2026-11-13T19:12:37.164Z",
   "upcoming": [
     {
       "type": "assignment",
@@ -12,6 +12,12 @@
       "title": "LABORATORY 10 homework Quiz (Ecology)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-11-17T04:59:59.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Week 13",
+      "course": "WOS100-01: Body Politics: Gender, Culture, and Representation",
+      "due_date": "2026-11-17T17:30:00.000Z"
     }
   ]
 }

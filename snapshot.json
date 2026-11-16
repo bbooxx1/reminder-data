@@ -1,4 +1,17 @@
 {
-  "generated_at": "2026-11-16T03:49:16.868Z",
-  "upcoming": []
+  "generated_at": "2026-11-16T15:04:11.603Z",
+  "upcoming": [
+    {
+      "type": "assignment",
+      "title": "Lecture Homework Week 12 (Ch 21, 23)",
+      "course": "BIO110 - General Biology I",
+      "due_date": "2026-11-21T04:59:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Memoir: Final",
+      "course": "WRT120-60-66-77: Effective Writing I",
+      "due_date": "2026-11-21T04:59:59.000Z"
+    }
+  ]
 }

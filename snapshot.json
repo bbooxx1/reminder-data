@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-11-19T02:35:11.039Z",
+  "generated_at": "2026-11-19T17:32:03.529Z",
   "upcoming": [
     {
       "type": "assignment",
       "title": "Lecture Homework Week 12 (Ch 21, 23)",
       "course": "BIO110 - General Biology I",
       "due_date": "2026-11-21T04:59:00.000Z"
+    },
+    {
+      "type": "assignment",
+      "title": "Your First Year Story",
+      "course": "FYE100B-01-03-11THRU15-31THRU35: First Year Experience - Exploratory",
+      "due_date": "2026-11-23T13:00:00.000Z"
     }
   ]
 }
